@@ -1,0 +1,2473 @@
+{
+    "response": "success",
+    "content": [
+        {
+            "position": 1,
+            "track_title": "As It Was",
+            "track_url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7",
+            "track_id": "4LRPiXqCikLlN15c3yImP7",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b46f74097655d7f353caab14",
+            "artists": [
+                "Harry Styles"
+            ],
+            "trend": "up",
+            "streams": 8484666
+        },
+        {
+            "position": 2,
+            "track_title": "Moscow Mule",
+            "track_url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
+            "track_id": "6Xom58OOXk2SoU711L2IXO",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 8154877
+        },
+        {
+            "position": 3,
+            "track_title": "Me Porto Bonito",
+            "track_url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx",
+            "track_id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "Chencho Corleone"
+            ],
+            "trend": "up",
+            "streams": 5906657
+        },
+        {
+            "position": 4,
+            "track_title": "Despu&eacute;s de la Playa",
+            "track_url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2",
+            "track_id": "1dm6z1fWB0cErMszU25dy2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 5639621
+        },
+        {
+            "position": 5,
+            "track_title": "Ojitos Lindos",
+            "track_url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW",
+            "track_id": "3k3NWokhRRkEPhCzPmV8TW",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "Bomba Est&eacute;reo"
+            ],
+            "trend": "up",
+            "streams": 5610696
+        },
+        {
+            "position": 6,
+            "track_title": "Tit&iacute; Me Pregunt&oacute;",
+            "track_url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ",
+            "track_id": "1IHWl5LamUGEuP4ozKQSXZ",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "sideway",
+            "streams": 5402566
+        },
+        {
+            "position": 7,
+            "track_title": "Party",
+            "track_url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN",
+            "track_id": "4tYFy8ALRjIZvnvSLw5lxN",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "Rauw Alejandro"
+            ],
+            "trend": "up",
+            "streams": 5323500
+        },
+        {
+            "position": 8,
+            "track_title": "First Class",
+            "track_url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC",
+            "track_id": "0wHFktze2PHC5jDt3B17DC",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "up",
+            "streams": 5263555
+        },
+        {
+            "position": 9,
+            "track_title": "Tarot",
+            "track_url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN",
+            "track_id": "41oY4WCTj5kccfesTVFnvN",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "Jhay Cortez"
+            ],
+            "trend": "down",
+            "streams": 5160843
+        },
+        {
+            "position": 10,
+            "track_title": "Un Ratito",
+            "track_url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O",
+            "track_id": "5CzixCxDkRXX9mScCmah8O",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 4775951
+        },
+        {
+            "position": 11,
+            "track_title": "Yo No Soy Celoso",
+            "track_url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1",
+            "track_id": "5kVZxyMY1gfdCLiChsfjn1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 4346829
+        },
+        {
+            "position": 12,
+            "track_title": "Me Fui de Vacaciones",
+            "track_url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T",
+            "track_id": "28GCbKgjlVD9eDmasGbe0T",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "up",
+            "streams": 4305335
+        },
+        {
+            "position": 13,
+            "track_title": "PROVENZA",
+            "track_url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb",
+            "track_id": "7dSZ6zGTQx66c2GF91xCrb",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e70c454b8989f09d1e11ea92",
+            "artists": [
+                "KAROL G"
+            ],
+            "trend": "up",
+            "streams": 4074136
+        },
+        {
+            "position": 14,
+            "track_title": "Neverita",
+            "track_url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB",
+            "track_id": "31i56LZnwE6uSu3exoHjtB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 4059457
+        },
+        {
+            "position": 15,
+            "track_title": "La Corriente",
+            "track_url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt",
+            "track_id": "1797zYiX4cKosMH836X9Gt",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "Tony Dize"
+            ],
+            "trend": "down",
+            "streams": 3995200
+        },
+        {
+            "position": 16,
+            "track_title": "Heat Waves",
+            "track_url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx",
+            "track_id": "02MWAaffLxlfxAUY7c5dvx",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519e495fb707973f3390850eea",
+            "artists": [
+                "Glass Animals"
+            ],
+            "trend": "up",
+            "streams": 3936961
+        },
+        {
+            "position": 17,
+            "track_title": "Dos Mil 16",
+            "track_url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2",
+            "track_id": "4d4ZXH4dr5bYfgErHiZCX2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "sideway",
+            "streams": 3890045
+        },
+        {
+            "position": 18,
+            "track_title": "Efecto",
+            "track_url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx",
+            "track_id": "5Eax0qFko2dh7Rl2lYs3bx",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 3732381
+        },
+        {
+            "position": 19,
+            "track_title": "Un Verano Sin Ti",
+            "track_url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS",
+            "track_id": "18HOjcvTVV7W8YzBuOsAPS",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 3687501
+        },
+        {
+            "position": 20,
+            "track_title": "Aguacero",
+            "track_url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI",
+            "track_id": "2uflssWlCaJ6CbTMOsUpNI",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 3470686
+        },
+        {
+            "position": 21,
+            "track_title": "Otro Atardecer",
+            "track_url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT",
+            "track_id": "0E0DRHf5PfMeor0ZCwB3oT",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "The Mar&iacute;as"
+            ],
+            "trend": "down",
+            "streams": 3428236
+        },
+        {
+            "position": 22,
+            "track_title": "About Damn Time",
+            "track_url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3",
+            "track_id": "1PckUlxKqWQs3RlWXVBLw3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517bb9f03ad65d1bd0b656fe68",
+            "artists": [
+                "Lizzo"
+            ],
+            "trend": "up",
+            "streams": 3416917
+        },
+        {
+            "position": 23,
+            "track_title": "Andrea",
+            "track_url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH",
+            "track_id": "44XjoNvtwevktFKjvVe1vH",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny",
+                "Buscabulla"
+            ],
+            "trend": "down",
+            "streams": 3401460
+        },
+        {
+            "position": 24,
+            "track_title": "Un Coco",
+            "track_url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk",
+            "track_id": "6VrQTLzzuyGIYjUDe4kAZk",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 3282348
+        },
+        {
+            "position": 25,
+            "track_title": "Ens&eacute;&ntilde;ame a Bailar",
+            "track_url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO",
+            "track_id": "2NMjggapJcXXM7WccGEBUO",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 3271714
+        },
+        {
+            "position": 26,
+            "track_title": "El Apag&oacute;n",
+            "track_url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz",
+            "track_id": "0UvZcEfpzVyx47QsRbjyBz",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 3172217
+        },
+        {
+            "position": 27,
+            "track_title": "STAY (with Justin Bieber)",
+            "track_url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX",
+            "track_id": "5PjdY0CKGZdEuoNab3yDmX",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e6551a2944764bc8e33a960",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "trend": "up",
+            "streams": 3161276
+        },
+        {
+            "position": 28,
+            "track_title": "Bam Bam (feat. Ed Sheeran)",
+            "track_url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a",
+            "track_id": "2DB4DdfCFMw1iaR6JaR03a",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851370ed6a9ced20874385fb147",
+            "artists": [
+                "Camila Cabello"
+            ],
+            "trend": "up",
+            "streams": 3063119
+        },
+        {
+            "position": 29,
+            "track_title": "Agosto",
+            "track_url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8",
+            "track_id": "0wihfILRNOwE2156Shezc8",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 2976959
+        },
+        {
+            "position": 30,
+            "track_title": "Callaita",
+            "track_url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba",
+            "track_id": "71wFwRo8xGc4lrcyKwsvba",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 2911283
+        },
+        {
+            "position": 31,
+            "track_title": "Cold Heart - PNAU Remix",
+            "track_url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h",
+            "track_id": "6JIC3hbC28JZKZ8AlAqX8h",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851eb842acacb3238b2bf3b8471",
+            "artists": [
+                "Elton John",
+                "Dua Lipa"
+            ],
+            "trend": "up",
+            "streams": 2870594
+        },
+        {
+            "position": 32,
+            "track_title": "Enemy (with JID) - from the series Arcane League of Legends",
+            "track_url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o",
+            "track_id": "1HhNoOuqm1a5MXYEgAFl8o",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d9b35d1c4d15c9de88b754a7",
+            "artists": [
+                "Imagine Dragons"
+            ],
+            "trend": "up",
+            "streams": 2621074
+        },
+        {
+            "position": 33,
+            "track_title": "Una Noche en Medell&iacute;n",
+            "track_url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6",
+            "track_id": "1O2pcBJGej0pmH2Y9XZMs6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851697ed12671078b5dee48f0ad",
+            "artists": [
+                "Cris Mj"
+            ],
+            "trend": "up",
+            "streams": 2618594
+        },
+        {
+            "position": 34,
+            "track_title": "INDUSTRY BABY (feat. Jack Harlow)",
+            "track_url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk",
+            "track_id": "5Z9KJZvQzH6PFmb8SNkxuk",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851be82673b5f79d9658ec0a9fd",
+            "artists": [
+                "Lil Nas X"
+            ],
+            "trend": "up",
+            "streams": 2546883
+        },
+        {
+            "position": 35,
+            "track_title": "MIDDLE OF THE NIGHT",
+            "track_url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly",
+            "track_id": "58HvfVOeJY7lUuCqF0m3ly",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485153a2e11c1bde700722fecd2e",
+            "artists": [
+                "Elley Duh&eacute;"
+            ],
+            "trend": "sideway",
+            "streams": 2529680
+        },
+        {
+            "position": 36,
+            "track_title": "Dua Lipa",
+            "track_url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4",
+            "track_id": "0LnS7aOdOdI1dNKZqdOLz4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 2528467
+        },
+        {
+            "position": 37,
+            "track_title": "MAMIII",
+            "track_url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs",
+            "track_id": "1ri9ZUkBJVFUdgwzCnfcYs",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485172babf690675fe969470e8ee",
+            "artists": [
+                "Becky G",
+                "KAROL G"
+            ],
+            "trend": "sideway",
+            "streams": 2499417
+        },
+        {
+            "position": 38,
+            "track_title": "Envolver",
+            "track_url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp",
+            "track_id": "3FkeNbs9Zeiqkr3WkbOiGp",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485196e2642422ad16661e673fa2",
+            "artists": [
+                "Anitta"
+            ],
+            "trend": "up",
+            "streams": 2421756
+        },
+        {
+            "position": 39,
+            "track_title": "Ghost",
+            "track_url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G",
+            "track_id": "6I3mqTwhRpn34SLVafSH7G",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "trend": "up",
+            "streams": 2277080
+        },
+        {
+            "position": 40,
+            "track_title": "WAIT FOR U (feat. Drake &amp; Tems)",
+            "track_url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK",
+            "track_id": "59nOXPmaKlBfGMDeOVGrIK",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485186badd635b69aea887862214",
+            "artists": [
+                "Future"
+            ],
+            "trend": "down",
+            "streams": 2264783
+        },
+        {
+            "position": 41,
+            "track_title": "Desesperados",
+            "track_url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p",
+            "track_id": "6mmPpaltUZK7xjNlBPQQ0p",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d9525f27b0a9e25b1fa21230",
+            "artists": [
+                "Rauw Alejandro",
+                "Chencho Corleone"
+            ],
+            "trend": "up",
+            "streams": 2226412
+        },
+        {
+            "position": 42,
+            "track_title": "Shivers",
+            "track_url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5",
+            "track_id": "50nfwKoDiSYg8zOCREWAm5",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ef24c3fdbf856340d55cfeb2",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "trend": "up",
+            "streams": 2178564
+        },
+        {
+            "position": 43,
+            "track_title": "This Love (Taylor&rsquo;s Version)",
+            "track_url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv",
+            "track_id": "4d1CG5ei1E2vGbvmgf5KKv",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b7fe6e9265a84c3b6eb66d34",
+            "artists": [
+                "Taylor Swift"
+            ],
+            "trend": "down",
+            "streams": 2096641
+        },
+        {
+            "position": 44,
+            "track_title": "abcdefu",
+            "track_url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL",
+            "track_id": "4fouWK6XVHhzl78KzQ1UjL",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512842f743ebd32235bceb43d3",
+            "artists": [
+                "GAYLE"
+            ],
+            "trend": "up",
+            "streams": 2096423
+        },
+        {
+            "position": 45,
+            "track_title": "Woman",
+            "track_url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4",
+            "track_id": "6Uj1ctrBOjOas8xZXGqKk4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
+            "artists": [
+                "Doja Cat"
+            ],
+            "trend": "up",
+            "streams": 2068308
+        },
+        {
+            "position": 46,
+            "track_title": "Where Are You Now",
+            "track_url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+            "track_id": "3uUuGVFu1V7jTQL60S1r8z",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518d7a7f1855b04104ba59c18b",
+            "artists": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "trend": "up",
+            "streams": 2042251
+        },
+        {
+            "position": 47,
+            "track_title": "X &Uacute;LTIMA VEZ",
+            "track_url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof",
+            "track_id": "48AJSd42lXpicsGqcgopof",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485142b84b2b0aa47bc162b29522",
+            "artists": [
+                "Daddy Yankee",
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 1992545
+        },
+        {
+            "position": 48,
+            "track_title": "Churchill Downs (feat. Drake)",
+            "track_url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD",
+            "track_id": "3EMp20j5E42MxfFbsEsIvD",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 1903964
+        },
+        {
+            "position": 49,
+            "track_title": "good 4 u",
+            "track_url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG",
+            "track_id": "4ZtFanR9U6ndgddUvNcjcG",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "trend": "up",
+            "streams": 1896863
+        },
+        {
+            "position": 50,
+            "track_title": "Pepas",
+            "track_url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni",
+            "track_id": "2B4GHvToeLTOBB4QLzW3Ni",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f1bd89fe6542ac73b8555f73",
+            "artists": [
+                "Farruko"
+            ],
+            "trend": "up",
+            "streams": 1894168
+        },
+        {
+            "position": 51,
+            "track_title": "The Motto",
+            "track_url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO",
+            "track_id": "18asYwWugKjjsihZ0YvRxO",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516b64f7a7e0e7af3d604ab41e",
+            "artists": [
+                "Ti&euml;sto",
+                "Ava Max"
+            ],
+            "trend": "sideway",
+            "streams": 1877901
+        },
+        {
+            "position": 52,
+            "track_title": "Bad Habits",
+            "track_url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d",
+            "track_id": "3rmo8F54jFF8OgYsqTxm5d",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ef24c3fdbf856340d55cfeb2",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "trend": "up",
+            "streams": 1851230
+        },
+        {
+            "position": 53,
+            "track_title": "Easy On Me",
+            "track_url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds",
+            "track_id": "46IZ0fSY2mpAiktS3KOqds",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c6b577e4c4a6d326354a89f7",
+            "artists": [
+                "Adele"
+            ],
+            "trend": "down",
+            "streams": 1822382
+        },
+        {
+            "position": 54,
+            "track_title": "THATS WHAT I WANT",
+            "track_url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO",
+            "track_id": "0e8nrvls4Qqv5Rfa2UhqmO",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851be82673b5f79d9658ec0a9fd",
+            "artists": [
+                "Lil Nas X"
+            ],
+            "trend": "up",
+            "streams": 1815287
+        },
+        {
+            "position": 55,
+            "track_title": "That That (prod. &amp; feat. SUGA of BTS)",
+            "track_url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa",
+            "track_id": "5oH4DQAuu1J1800RzUsBWa",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851cab1d5724ddfed3aa8a4fd0f",
+            "artists": [
+                "PSY"
+            ],
+            "trend": "sideway",
+            "streams": 1787251
+        },
+        {
+            "position": 56,
+            "track_title": "Fuera del mercado",
+            "track_url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0",
+            "track_id": "1UdzJEpgJxtuXAlCOvD4S0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851be462dd5903fb27996331b48",
+            "artists": [
+                "Danny Ocean"
+            ],
+            "trend": "up",
+            "streams": 1766003
+        },
+        {
+            "position": 57,
+            "track_title": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+            "track_url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM",
+            "track_id": "2uky0VCI2EZni0nArOPznM",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ecb9131b2178a7139a7a31b6",
+            "artists": [
+                "Bizarrap",
+                "Paulo Londra"
+            ],
+            "trend": "sideway",
+            "streams": 1749619
+        },
+        {
+            "position": 58,
+            "track_title": "Jordan",
+            "track_url": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS",
+            "track_id": "2rDZhKnPaPG054ExZ6nXUS",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a60c2f9c4737c3319da3e5d4",
+            "artists": [
+                "Ryan Castro"
+            ],
+            "trend": "down",
+            "streams": 1735179
+        },
+        {
+            "position": 59,
+            "track_title": "Blinding Lights",
+            "track_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+            "track_id": "0VjIjW4GlUZAMYd2vXMi3b",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+            "artists": [
+                "The Weeknd"
+            ],
+            "trend": "up",
+            "streams": 1705494
+        },
+        {
+            "position": 60,
+            "track_title": "Watermelon Sugar",
+            "track_url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY",
+            "track_id": "6UelLqGlWMcVH1E5c4H7lY",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+            "artists": [
+                "Harry Styles"
+            ],
+            "trend": "up",
+            "streams": 1678393
+        },
+        {
+            "position": 61,
+            "track_title": "Wait a Minute!",
+            "track_url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh",
+            "track_id": "0y60itmpH0aPKsFiGxmtnh",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516ee651e65c3766d80e7fcab7",
+            "artists": [
+                "WILLOW"
+            ],
+            "trend": "up",
+            "streams": 1677444
+        },
+        {
+            "position": 62,
+            "track_title": "Yonaguni",
+            "track_url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS",
+            "track_id": "2JPLbjOn0wPCngEot2STUS",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485164afd6879102d03460bd3ad9",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 1644907
+        },
+        {
+            "position": 63,
+            "track_title": "Another Love",
+            "track_url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ",
+            "track_id": "7jtQIBanIiJOMS6RyCx6jZ",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511b51f809c31f0d98f67c0b7d",
+            "artists": [
+                "Tom Odell"
+            ],
+            "trend": "up",
+            "streams": 1614334
+        },
+        {
+            "position": 64,
+            "track_title": "My Universe",
+            "track_url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI",
+            "track_id": "46HNZY1i7O6jwTA7Slo2PI",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ec10f247b100da1ce0d80b6d",
+            "artists": [
+                "Coldplay",
+                "BTS"
+            ],
+            "trend": "up",
+            "streams": 1587097
+        },
+        {
+            "position": 65,
+            "track_title": "Light Switch",
+            "track_url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ",
+            "track_id": "3AVXwaOGCEL8cmBecfcsFJ",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851eea6313204bdb8cd3e6cbc9d",
+            "artists": [
+                "Charlie Puth"
+            ],
+            "trend": "up",
+            "streams": 1583720
+        },
+        {
+            "position": 66,
+            "track_title": "Thousand Miles",
+            "track_url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg",
+            "track_id": "1r8ZCjfrQxoy2wVaBUbpwg",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485186322307ddfb6e9c87b82d39",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "trend": "down",
+            "streams": 1580213
+        },
+        {
+            "position": 67,
+            "track_title": "Lo Siento BB:/ (with Bad Bunny &amp; Julieta Venegas)",
+            "track_url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB",
+            "track_id": "4gzsuuZypVbxs0Af1LSZyB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851abe9c2b5f03653d6b87696e6",
+            "artists": [
+                "Tainy"
+            ],
+            "trend": "down",
+            "streams": 1538111
+        },
+        {
+            "position": 68,
+            "track_title": "Sweater Weather",
+            "track_url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+            "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "trend": "up",
+            "streams": 1503399
+        },
+        {
+            "position": 69,
+            "track_title": "Dandelions",
+            "track_url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV",
+            "track_id": "2eAvDnpXP5W0cVtiI0PUxV",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485197e971f3e53475091dc8d707",
+            "artists": [
+                "Ruth B."
+            ],
+            "trend": "up",
+            "streams": 1491401
+        },
+        {
+            "position": 70,
+            "track_title": "Kiss Me More (feat. SZA)",
+            "track_url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
+            "track_id": "3DarAbFujv6eYNliUTyqtz",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
+            "artists": [
+                "Doja Cat"
+            ],
+            "trend": "up",
+            "streams": 1452292
+        },
+        {
+            "position": 71,
+            "track_title": "Boyfriend",
+            "track_url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj",
+            "track_id": "59CfNbkERJ3NoTXDvoURjj",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510397f50cb9dc5393db5d08bc",
+            "artists": [
+                "Dove Cameron"
+            ],
+            "trend": "up",
+            "streams": 1415400
+        },
+        {
+            "position": 72,
+            "track_title": "Te Felicito",
+            "track_url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt",
+            "track_id": "2rurDawMfoKP4uHyb2kJBt",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519a9716c90ceeb1890921e44f",
+            "artists": [
+                "Shakira",
+                "Rauw Alejandro"
+            ],
+            "trend": "up",
+            "streams": 1402910
+        },
+        {
+            "position": 73,
+            "track_title": "traitor",
+            "track_url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
+            "track_id": "5CZ40GBx1sQ9agT82CLQCT",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "trend": "up",
+            "streams": 1402127
+        },
+        {
+            "position": 74,
+            "track_title": "Levitating (feat. DaBaby)",
+            "track_url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF",
+            "track_id": "5nujrmhLynf4yMoMtj8AQF",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d4daf28d55fe4197ede848be",
+            "artists": [
+                "Dua Lipa"
+            ],
+            "trend": "up",
+            "streams": 1394613
+        },
+        {
+            "position": 75,
+            "track_title": "ULTRA SOLO",
+            "track_url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y",
+            "track_id": "0OTNHGKcqQbk51bOYe462Y",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485150020989b56b9426950f29c2",
+            "artists": [
+                "Polim&aacute; Westcoast",
+                "Pailita"
+            ],
+            "trend": "up",
+            "streams": 1389877
+        },
+        {
+            "position": 76,
+            "track_title": "Infinity",
+            "track_url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK",
+            "track_id": "1SOClUWhOi8vHZYMz3GluK",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a9897f65d1ead1be10a51e3f",
+            "artists": [
+                "Jaymes Young"
+            ],
+            "trend": "up",
+            "streams": 1380301
+        },
+        {
+            "position": 77,
+            "track_title": "Beautiful Girl",
+            "track_url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx",
+            "track_id": "2XRn6Qu0Wd1KvOND8JbaTx",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518d1b8ae3f4008106dee15046",
+            "artists": [
+                "Luciano"
+            ],
+            "trend": "down",
+            "streams": 1372501
+        },
+        {
+            "position": 78,
+            "track_title": "Need to Know",
+            "track_url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi",
+            "track_id": "3Vi5XqYrmQgOYBajMWSvCi",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
+            "artists": [
+                "Doja Cat"
+            ],
+            "trend": "up",
+            "streams": 1358648
+        },
+        {
+            "position": 79,
+            "track_title": "House of Memories",
+            "track_url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ",
+            "track_id": "2DgdHcjWmO3qd50RzuBLgZ",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485123152d9337d6c57b116ed13a",
+            "artists": [
+                "Panic! At The Disco"
+            ],
+            "trend": "up",
+            "streams": 1352881
+        },
+        {
+            "position": 80,
+            "track_title": "Honest (feat. Don Toliver)",
+            "track_url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0",
+            "track_id": "2KdKh9vHbKW0tZLqtpxxI0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485177f7f8553ace10f4d9347872",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "trend": "down",
+            "streams": 1349747
+        },
+        {
+            "position": 81,
+            "track_title": "drivers license",
+            "track_url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+            "track_id": "5wANPM4fQCJwkGd4rN57mH",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "trend": "up",
+            "streams": 1291674
+        },
+        {
+            "position": 82,
+            "track_title": "Save Your Tears",
+            "track_url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
+            "track_id": "5QO79kh1waicV47BqGRL3g",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+            "artists": [
+                "The Weeknd"
+            ],
+            "trend": "up",
+            "streams": 1286355
+        },
+        {
+            "position": 83,
+            "track_title": "D&Aacute;KITI",
+            "track_url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49",
+            "track_id": "4MzXwWMhyBbmu6hOcLVD49",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851005ee342f4eef2cc6e8436ab",
+            "artists": [
+                "Bad Bunny",
+                "Jhay Cortez"
+            ],
+            "trend": "up",
+            "streams": 1270140
+        },
+        {
+            "position": 84,
+            "track_title": "2step",
+            "track_url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0",
+            "track_id": "2SUxn2O9NHL6GHGQFgwCY0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ef24c3fdbf856340d55cfeb2",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "trend": "up",
+            "streams": 1268895
+        },
+        {
+            "position": 85,
+            "track_title": "Wildest Dreams (Taylor&#039;s Version)",
+            "track_url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL",
+            "track_id": "1Ov37jtRQ2YNAe8HzfczkL",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851eb10050f6fe8e2783a91a4b1",
+            "artists": [
+                "Taylor Swift"
+            ],
+            "trend": "down",
+            "streams": 1254335
+        },
+        {
+            "position": 86,
+            "track_title": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+            "track_url": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX",
+            "track_id": "1oFAF1hdPOickyHgbuRjyX",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b5097b81179824803664aaaf",
+            "artists": [
+                "The Weeknd"
+            ],
+            "trend": "up",
+            "streams": 1242142
+        },
+        {
+            "position": 87,
+            "track_title": "PUFFIN ON ZOOTIEZ",
+            "track_url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi",
+            "track_id": "1qMMYpVatbRITKCfq1gasi",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485186badd635b69aea887862214",
+            "artists": [
+                "Future"
+            ],
+            "trend": "down",
+            "streams": 1240525
+        },
+        {
+            "position": 88,
+            "track_title": "I Love You So",
+            "track_url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc",
+            "track_id": "4SqWKzw0CbA05TGszDgMlc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519214ff0109a0e062f8a6cf0f",
+            "artists": [
+                "The Walters"
+            ],
+            "trend": "up",
+            "streams": 1235190
+        },
+        {
+            "position": 89,
+            "track_title": "Bones",
+            "track_url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G",
+            "track_id": "0HqZX76SFLDz2aW8aiqi7G",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851813713582dcc508e7d5073c4",
+            "artists": [
+                "Imagine Dragons"
+            ],
+            "trend": "up",
+            "streams": 1223902
+        },
+        {
+            "position": 90,
+            "track_title": "In The Stars",
+            "track_url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn",
+            "track_id": "1ei3hzQmrgealgRKFxIcWn",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851786e4e2c43c2897fafabbfb6",
+            "artists": [
+                "Benson Boone"
+            ],
+            "trend": "up",
+            "streams": 1218093
+        },
+        {
+            "position": 91,
+            "track_title": "505",
+            "track_url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS",
+            "track_id": "58ge6dfP91o9oXMzq3XkIS",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "trend": "up",
+            "streams": 1213309
+        },
+        {
+            "position": 92,
+            "track_title": "Do It To It",
+            "track_url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3",
+            "track_id": "20on25jryn53hWghthWWW3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485184d413b195aac8a69cc6e5c6",
+            "artists": [
+                "ACRAZE",
+                "Cherish"
+            ],
+            "trend": "up",
+            "streams": 1210938
+        },
+        {
+            "position": 93,
+            "track_title": "A Tu Merced",
+            "track_url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0",
+            "track_id": "4r9jkMEnArtWGH2rL2FZl0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "trend": "up",
+            "streams": 1196423
+        },
+        {
+            "position": 94,
+            "track_title": "Plan A",
+            "track_url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB",
+            "track_id": "2gpQi3hbcUAcEG8m2dlgfB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517e1179e64539bedc938933ef",
+            "artists": [
+                "Paulo Londra"
+            ],
+            "trend": "up",
+            "streams": 1183902
+        },
+        {
+            "position": 95,
+            "track_title": "MONTERO (Call Me By Your Name)",
+            "track_url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W",
+            "track_id": "1SC5rEoYDGUK4NfG82494W",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851be82673b5f79d9658ec0a9fd",
+            "artists": [
+                "Lil Nas X"
+            ],
+            "trend": "up",
+            "streams": 1183090
+        },
+        {
+            "position": 96,
+            "track_title": "deja vu",
+            "track_url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
+            "track_id": "6HU7h9RYOaPRFeh0R3UeAr",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "trend": "up",
+            "streams": 1179971
+        },
+        {
+            "position": 97,
+            "track_title": "Yo Voy (feat. Daddy Yankee)",
+            "track_url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS",
+            "track_id": "5gflgO9EPbIBf16n5TKnQS",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485187d3146807ad53b05a7daaac",
+            "artists": [
+                "Zion &amp; Lennox"
+            ],
+            "trend": "up",
+            "streams": 1163940
+        },
+        {
+            "position": 98,
+            "track_title": "Pantysito",
+            "track_url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp",
+            "track_id": "4srcMdbm2qzVG98tJajHxp",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485103a184c19d99418042ddf68a",
+            "artists": [
+                "Alejo",
+                "Feid",
+                "ROBI"
+            ],
+            "trend": "up",
+            "streams": 1151076
+        },
+        {
+            "position": 99,
+            "track_title": "TUS L&Aacute;GRIMAS",
+            "track_url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u",
+            "track_id": "30W8VKHrAZmHzObnwAoc1u",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851851222dc5c5681bd4c3119d3",
+            "artists": [
+                "Mora",
+                "Sech"
+            ],
+            "trend": "up",
+            "streams": 1150377
+        },
+        {
+            "position": 100,
+            "track_title": "Without Me",
+            "track_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+            "track_id": "7lQ8MOhq6IN2w8EYcFNSUk",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+            "artists": [
+                "Eminem"
+            ],
+            "trend": "up",
+            "streams": 1148738
+        },
+        {
+            "position": 101,
+            "track_title": "Happier Than Ever",
+            "track_url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8",
+            "track_id": "4RVwu0g32PAqgUiJoXsdF8",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512a038d3bf875d23e4aeaa84e",
+            "artists": [
+                "Billie Eilish"
+            ],
+            "trend": "up",
+            "streams": 1147298
+        },
+        {
+            "position": 102,
+            "track_title": "Angel Baby",
+            "track_url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc",
+            "track_id": "2m6Ko3CY1qXNNja8AlugNc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048515cf05521594fbf41d2a48893",
+            "artists": [
+                "Troye Sivan"
+            ],
+            "trend": "up",
+            "streams": 1140335
+        },
+        {
+            "position": 103,
+            "track_title": "Nail Tech",
+            "track_url": "https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG",
+            "track_id": "3ioJs8DQw527GmqJIp5gZG",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 1135363
+        },
+        {
+            "position": 104,
+            "track_title": "Thought You Should Know",
+            "track_url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R",
+            "track_id": "6NHpyYvJyQsg2nXXzGYc2R",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851cfadf73b73ba2fbcbbf549de",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "trend": "down",
+            "streams": 1134716
+        },
+        {
+            "position": 105,
+            "track_title": "With you",
+            "track_url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY",
+            "track_id": "2gzhQaCTeNgxpeB2TPllyY",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d90bd8b97e49216c00e55d18",
+            "artists": [
+                "Jimin",
+                "HA SUNG WOON"
+            ],
+            "trend": "up",
+            "streams": 1116167
+        },
+        {
+            "position": 106,
+            "track_title": "Believer",
+            "track_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+            "track_id": "0pqnGHJpmpxLKifKRmU6WP",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+            "artists": [
+                "Imagine Dragons"
+            ],
+            "trend": "up",
+            "streams": 1103344
+        },
+        {
+            "position": 107,
+            "track_title": "Si Quieren Frontear",
+            "track_url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo",
+            "track_id": "6bQ5823aHmFVKLZW8E7rRo",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a1d698e7e7d9a964d4b9ded2",
+            "artists": [
+                "Duki",
+                "De La Ghetto",
+                "Quevedo"
+            ],
+            "trend": "up",
+            "streams": 1097226
+        },
+        {
+            "position": 108,
+            "track_title": "Don&#039;t Start Now",
+            "track_url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62",
+            "track_id": "3PfIrDoz19wz7qK7tYeu62",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851bd26ede1ae69327010d49946",
+            "artists": [
+                "Dua Lipa"
+            ],
+            "trend": "up",
+            "streams": 1092671
+        },
+        {
+            "position": 109,
+            "track_title": "Toxic",
+            "track_url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO",
+            "track_id": "3M214U0mwSm041GsQR3nrO",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ee07023115f822012390d2a0",
+            "artists": [
+                "BoyWithUke"
+            ],
+            "trend": "up",
+            "streams": 1092273
+        },
+        {
+            "position": 110,
+            "track_title": "Peaches (feat. Daniel Caesar &amp; Giveon)",
+            "track_url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI",
+            "track_id": "4iJyoBOLtHqaGxP12qzhQI",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "trend": "up",
+            "streams": 1086346
+        },
+        {
+            "position": 111,
+            "track_title": "ZOOM",
+            "track_url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9",
+            "track_id": "4IaxDf2FixiQXq0mW7key9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c4197378ef8cb88888716bca",
+            "artists": [
+                "Jessi"
+            ],
+            "trend": "up",
+            "streams": 1084652
+        },
+        {
+            "position": 112,
+            "track_title": "Tacones Rojos",
+            "track_url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF",
+            "track_id": "6ylDpki1VpIsc525KC1ojF",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519f6800546cfaaacb3fa4b145",
+            "artists": [
+                "Sebastian Yatra"
+            ],
+            "trend": "up",
+            "streams": 1081978
+        },
+        {
+            "position": 113,
+            "track_title": "When You&#039;re Gone",
+            "track_url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6",
+            "track_id": "0U1W2LZVUX7qTm7dDpqxh6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851dad0775943c1a826bfed3117",
+            "artists": [
+                "Shawn Mendes"
+            ],
+            "trend": "up",
+            "streams": 1077398
+        },
+        {
+            "position": 114,
+            "track_title": "Bohemian Rhapsody - Remastered 2011",
+            "track_url": "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv",
+            "track_id": "4u7EnebtmKWzUH433cf5Qv",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+            "artists": [
+                "Queen"
+            ],
+            "trend": "up",
+            "streams": 1076754
+        },
+        {
+            "position": 115,
+            "track_title": "Pasoori",
+            "track_url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
+            "track_id": "7lvDsmTRXFE3dK4OjvRiWB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513f3d35703bdcd917dad51c4f",
+            "artists": [
+                "Shae Gill",
+                "Ali Sethi"
+            ],
+            "trend": "up",
+            "streams": 1069861
+        },
+        {
+            "position": 116,
+            "track_title": "she&#039;s all i wanna be",
+            "track_url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW",
+            "track_id": "0IuVhCflrQPMGRrOyoY5RW",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851f7916a35ffdd6cb90bbbdf2f",
+            "artists": [
+                "Tate McRae"
+            ],
+            "trend": "up",
+            "streams": 1068220
+        },
+        {
+            "position": 117,
+            "track_title": "Beggin&#039;",
+            "track_url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+            "track_id": "3Wrjm47oTz2sjIgck11l5e",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+            "artists": [
+                "M&aring;neskin"
+            ],
+            "trend": "up",
+            "streams": 1064983
+        },
+        {
+            "position": 118,
+            "track_title": "Todo De Ti",
+            "track_url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo",
+            "track_id": "3rdAz1fbUfZxYgaCviYhRo",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d9525f27b0a9e25b1fa21230",
+            "artists": [
+                "Rauw Alejandro"
+            ],
+            "trend": "up",
+            "streams": 1061309
+        },
+        {
+            "position": 119,
+            "track_title": "LOVE DIVE",
+            "track_url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi",
+            "track_id": "0Q5VnK2DYzRyfqQRJuUtvi",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519016f58cc49e6473e1207093",
+            "artists": [
+                "IVE"
+            ],
+            "trend": "up",
+            "streams": 1054530
+        },
+        {
+            "position": 120,
+            "track_title": "Butter",
+            "track_url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB",
+            "track_id": "1mWdTewIgB3gtBM3TOSFhB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851240447f2da1433d8f4303596",
+            "artists": [
+                "BTS"
+            ],
+            "trend": "up",
+            "streams": 1053935
+        },
+        {
+            "position": 121,
+            "track_title": "Demasiadas Mujeres",
+            "track_url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55",
+            "track_id": "3GaGWoU1KfVqgl7vnRHP55",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a408c78e231f716383a58eb3",
+            "artists": [
+                "C. Tangana"
+            ],
+            "trend": "up",
+            "streams": 1045807
+        },
+        {
+            "position": 122,
+            "track_title": "No Ouvidinho",
+            "track_url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI",
+            "track_id": "4QWumyD2uwiePBBha9XBHI",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485185374fb3856f7e711d81457a",
+            "artists": [
+                "Felipe Amorim"
+            ],
+            "trend": "up",
+            "streams": 1037547
+        },
+        {
+            "position": 123,
+            "track_title": "No Role Modelz",
+            "track_url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr",
+            "track_id": "68Dni7IE4VyPkTOH9mRWHr",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
+            "artists": [
+                "J. Cole"
+            ],
+            "trend": "down",
+            "streams": 1036952
+        },
+        {
+            "position": 124,
+            "track_title": "The Real Slim Shady",
+            "track_url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR",
+            "track_id": "3yfqSUWxFvZELEM4PmlwIR",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
+            "artists": [
+                "Eminem"
+            ],
+            "trend": "up",
+            "streams": 1033072
+        },
+        {
+            "position": 125,
+            "track_title": "Softcore",
+            "track_url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha",
+            "track_id": "2K7xn816oNHJZ0aVqdQsha",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519b6ac98a52f62d5cb473da40",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "trend": "up",
+            "streams": 1020347
+        },
+        {
+            "position": 126,
+            "track_title": "Termina Comigo Antes",
+            "track_url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP",
+            "track_id": "1K8AtBJXcdq5mywMnZuARP",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851375461afd67b9a7dac582672",
+            "artists": [
+                "Gusttavo Lima"
+            ],
+            "trend": "new",
+            "streams": 1018597
+        },
+        {
+            "position": 127,
+            "track_title": "Medallo",
+            "track_url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw",
+            "track_id": "6lX6l7OuA3qrnIRfdsr0dw",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510a0ee97e8ba4373476538f19",
+            "artists": [
+                "Blessd",
+                "Justin Quiles",
+                "Lenny Tav&aacute;rez"
+            ],
+            "trend": "up",
+            "streams": 1016509
+        },
+        {
+            "position": 128,
+            "track_title": "Payphone",
+            "track_url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A",
+            "track_id": "1XGmzt0PVuFgQYYnV2It7A",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851fc8633e22a7dba6aab817bff",
+            "artists": [
+                "Maroon 5",
+                "Wiz Khalifa"
+            ],
+            "trend": "up",
+            "streams": 1015734
+        },
+        {
+            "position": 129,
+            "track_title": "I&#039;d Do Anything To Make You Smile",
+            "track_url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH",
+            "track_id": "7Bot6AB2dsvZEyqzUL8AUH",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 1011963
+        },
+        {
+            "position": 130,
+            "track_title": "Yellow",
+            "track_url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+            "track_id": "3AJwUDP919kvQ9QcozQPxg",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513d92b2ad5af9fbc8637425f0",
+            "artists": [
+                "Coldplay"
+            ],
+            "trend": "up",
+            "streams": 1003479
+        },
+        {
+            "position": 131,
+            "track_title": "lovely (with Khalid)",
+            "track_url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4",
+            "track_id": "0u2P5u6lvoDfwTYjAADbn4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518a3f0a3ca7929dea23cd274c",
+            "artists": [
+                "Billie Eilish"
+            ],
+            "trend": "up",
+            "streams": 997872
+        },
+        {
+            "position": 132,
+            "track_title": "Cool for the Summer",
+            "track_url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz",
+            "track_id": "3uwnnTQcHM1rDqSfA4gQNz",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ed164cf1c10f028e8f528784",
+            "artists": [
+                "Demi Lovato"
+            ],
+            "trend": "up",
+            "streams": 995432
+        },
+        {
+            "position": 133,
+            "track_title": "One Right Now (with The Weeknd)",
+            "track_url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj",
+            "track_id": "00Blm7zeNqgYLPtW6zg8cj",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514158fe41143182ec16ead070",
+            "artists": [
+                "Post Malone"
+            ],
+            "trend": "up",
+            "streams": 990627
+        },
+        {
+            "position": 134,
+            "track_title": "LA CANCI&Oacute;N",
+            "track_url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18",
+            "track_id": "0fea68AdmYNygeTGI4RC18",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514891d9b25d8919448388f3bb",
+            "artists": [
+                "J Balvin",
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 985856
+        },
+        {
+            "position": 135,
+            "track_title": "sentaDONA (Remix) s2",
+            "track_url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h",
+            "track_id": "3sd2p4kE7xQmFH3lPnFl6h",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514e087848bdb9bebc193ce961",
+            "artists": [
+                "Davi Kneip",
+                "Mc Frog",
+                "Dj Gabriel do Borel",
+                "Lu&iacute;sa Sonza"
+            ],
+            "trend": "up",
+            "streams": 983649
+        },
+        {
+            "position": 136,
+            "track_title": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "track_url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY",
+            "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
+            "artists": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "trend": "up",
+            "streams": 983554
+        },
+        {
+            "position": 137,
+            "track_title": "Dynamite",
+            "track_url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW",
+            "track_id": "5QDLhrAOJJdNAmCTJ8xMyW",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c07d5d2fdc02ae252fcd07e5",
+            "artists": [
+                "BTS"
+            ],
+            "trend": "up",
+            "streams": 982262
+        },
+        {
+            "position": 138,
+            "track_title": "Volv&iacute;",
+            "track_url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi",
+            "track_id": "2vmfvSoZBFAt9hhRoEByLi",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485112bcec4f18ee130369ce170c",
+            "artists": [
+                "Aventura",
+                "Bad Bunny"
+            ],
+            "trend": "down",
+            "streams": 976597
+        },
+        {
+            "position": 139,
+            "track_title": "10 Things I Hate About You",
+            "track_url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH",
+            "track_id": "6Jkm5kUldvIqxzI1Pa7nXH",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851596a9d381ffda7d97da5d702",
+            "artists": [
+                "Leah Kate"
+            ],
+            "trend": "down",
+            "streams": 972721
+        },
+        {
+            "position": 140,
+            "track_title": "Adore You",
+            "track_url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7",
+            "track_id": "3jjujdWJ72nww5eGnfs2E7",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+            "artists": [
+                "Harry Styles"
+            ],
+            "trend": "up",
+            "streams": 970170
+        },
+        {
+            "position": 141,
+            "track_title": "Young Harleezy",
+            "track_url": "https://open.spotify.com/track/4CuZSJLlmUrEfcXUm6pQk9",
+            "track_id": "4CuZSJLlmUrEfcXUm6pQk9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 969468
+        },
+        {
+            "position": 142,
+            "track_title": "Shape of You",
+            "track_url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
+            "track_id": "7qiZfU4dY1lWllzX7mPBI3",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "trend": "up",
+            "streams": 969394
+        },
+        {
+            "position": 143,
+            "track_title": "ERRO PLANEJADO - Ao Vivo",
+            "track_url": "https://open.spotify.com/track/0sjhY8nPIm6cPOQfyUPmJe",
+            "track_id": "0sjhY8nPIm6cPOQfyUPmJe",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a187189988539ceac00c7667",
+            "artists": [
+                "Luan Santana",
+                "Henrique &amp; Juliano"
+            ],
+            "trend": "new",
+            "streams": 966343
+        },
+        {
+            "position": 144,
+            "track_title": "Flowers",
+            "track_url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc",
+            "track_id": "6Z165JvPnS8PYvGW8oLGLc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851295d21d0987dcc3d88b4e993",
+            "artists": [
+                "Lauren Spencer-Smith"
+            ],
+            "trend": "down",
+            "streams": 963795
+        },
+        {
+            "position": 145,
+            "track_title": "Mon Amour - Remix",
+            "track_url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R",
+            "track_id": "5TMLavqGRKNxgzMBrVpC9R",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851545c930fa9fada545b01f71d",
+            "artists": [
+                "zzoilo",
+                "Aitana"
+            ],
+            "trend": "up",
+            "streams": 963375
+        },
+        {
+            "position": 146,
+            "track_title": "love nwantiti (ah ah ah)",
+            "track_url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g",
+            "track_id": "2Xr1dTzJee307rmrkt8c0g",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851405fdad252857e01dbced96a",
+            "artists": [
+                "CKay"
+            ],
+            "trend": "up",
+            "streams": 962329
+        },
+        {
+            "position": 147,
+            "track_title": "La Santa",
+            "track_url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK",
+            "track_id": "69vlMrzHwATKzupwNcUPyK",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
+            "artists": [
+                "Bad Bunny",
+                "Daddy Yankee"
+            ],
+            "trend": "down",
+            "streams": 959942
+        },
+        {
+            "position": 148,
+            "track_title": "Blank Space",
+            "track_url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g",
+            "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a",
+            "artists": [
+                "Taylor Swift"
+            ],
+            "trend": "down",
+            "streams": 957813
+        },
+        {
+            "position": 149,
+            "track_title": "Counting Stars",
+            "track_url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1",
+            "track_id": "2tpWsVSb9UEmDRxAl1zhX1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519e2f95ae77cf436017ada9cb",
+            "artists": [
+                "OneRepublic"
+            ],
+            "trend": "up",
+            "streams": 950769
+        },
+        {
+            "position": 150,
+            "track_title": "DAN&Ccedil;ARINA",
+            "track_url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB",
+            "track_id": "5zNxUkUW9WiV5oyg6gh2wB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485118313f96fb2cecc502a34f85",
+            "artists": [
+                "PEDRO SAMPAIO",
+                "Mc Pedrinho"
+            ],
+            "trend": "new",
+            "streams": 948027
+        },
+        {
+            "position": 151,
+            "track_title": "I&#039;M ON ONE (feat. Drake)",
+            "track_url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU",
+            "track_id": "6wyhUr4Xw8z5uSy0AhoZfU",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485186badd635b69aea887862214",
+            "artists": [
+                "Future"
+            ],
+            "trend": "down",
+            "streams": 947790
+        },
+        {
+            "position": 152,
+            "track_title": "Smells Like Teen Spirit - Remastered",
+            "track_url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu",
+            "track_id": "0gucTLf7trAf37Ua1uAyAu",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851444f118a9126af9e1483dcc0",
+            "artists": [
+                "Nirvana"
+            ],
+            "trend": "up",
+            "streams": 947087
+        },
+        {
+            "position": 153,
+            "track_title": "Unstoppable",
+            "track_url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa",
+            "track_id": "2J2Z1SkXYghSajLibnQHOa",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149e0134c686547c28b7c999f",
+            "artists": [
+                "Sia"
+            ],
+            "trend": "up",
+            "streams": 946620
+        },
+        {
+            "position": 154,
+            "track_title": "Where Did You Go? (feat. MNEK)",
+            "track_url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8",
+            "track_id": "3sa06xVNmLLYIxdNNmVQN8",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851490a887b85a95378ea66b41d",
+            "artists": [
+                "Jax Jones"
+            ],
+            "trend": "up",
+            "streams": 942603
+        },
+        {
+            "position": 155,
+            "track_title": "In My Head",
+            "track_url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb",
+            "track_id": "1HvTxgCj0mTzQlEo0zLvFb",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048511e6a9d4ce04b67a455ed6b8c",
+            "artists": [
+                "Lil Tjay"
+            ],
+            "trend": "down",
+            "streams": 934171
+        },
+        {
+            "position": 156,
+            "track_title": "Someone You Loved",
+            "track_url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf",
+            "track_id": "7qEHsqek33rTcFNT9PFqLf",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851fc2101e6889d6ce9025f85f2",
+            "artists": [
+                "Lewis Capaldi"
+            ],
+            "trend": "down",
+            "streams": 931946
+        },
+        {
+            "position": 157,
+            "track_title": "Lose Yourself - From &quot;8 Mile&quot; Soundtrack",
+            "track_url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+            "track_id": "1v7L65Lzy0j0vdpRjJewt1",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
+            "artists": [
+                "Eminem"
+            ],
+            "trend": "up",
+            "streams": 930016
+        },
+        {
+            "position": 158,
+            "track_title": "D.M.B.",
+            "track_url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5",
+            "track_id": "7IBLt4Qarf4JDLxIQDv2O5",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485134a1040c25a7ff7fca5135f3",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "trend": "down",
+            "streams": 919797
+        },
+        {
+            "position": 159,
+            "track_title": "Side Piece",
+            "track_url": "https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV",
+            "track_id": "0203aGEIzVVlmvQ8lX4fmV",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 919532
+        },
+        {
+            "position": 160,
+            "track_title": "Locked out of Heaven",
+            "track_url": "https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI",
+            "track_id": "5g7sDjBhZ4I3gcFIpkrLuI",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485149055dce3554e72e82082980",
+            "artists": [
+                "Bruno Mars"
+            ],
+            "trend": "up",
+            "streams": 919018
+        },
+        {
+            "position": 161,
+            "track_title": "Mal Feito - Ao Vivo",
+            "track_url": "https://open.spotify.com/track/6Zw25LRLP0j0MsezDFIUM4",
+            "track_id": "6Zw25LRLP0j0MsezDFIUM4",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851589da421f5679c437c3f6b63",
+            "artists": [
+                "Hugo &amp; Guilherme",
+                "Mar&iacute;lia Mendon&ccedil;a"
+            ],
+            "trend": "new",
+            "streams": 910309
+        },
+        {
+            "position": 162,
+            "track_title": "Sweetest Pie",
+            "track_url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh",
+            "track_id": "7mFj0LlWtEJaEigguaWqYh",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a9a24981f3fc5d314f4e9f36",
+            "artists": [
+                "Megan Thee Stallion",
+                "Dua Lipa"
+            ],
+            "trend": "up",
+            "streams": 909857
+        },
+        {
+            "position": 163,
+            "track_title": "Movie Star (feat. Pharrell Williams)",
+            "track_url": "https://open.spotify.com/track/3u8bblcJtOxxmGzJrviWLp",
+            "track_id": "3u8bblcJtOxxmGzJrviWLp",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 906538
+        },
+        {
+            "position": 164,
+            "track_title": "We Don&#039;t Talk About Bruno",
+            "track_url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz",
+            "track_id": "52xJxFP6TqMuO4Yt0eOkMz",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e1ac646ed6f25125e2a77229",
+            "artists": [
+                "Carolina Gait&aacute;n - La Gaita",
+                "Mauro Castillo",
+                "Adassa",
+                "Rhenzy Feliz",
+                "Diane Guerrero",
+                "Stephanie Beatriz",
+                "Encanto - Cast"
+            ],
+            "trend": "up",
+            "streams": 904098
+        },
+        {
+            "position": 165,
+            "track_title": "Vampiro",
+            "track_url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj",
+            "track_id": "6bTdZ7xfKp3NqqADJ8HLyj",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b0cd9991ea7465bac51e9a94",
+            "artists": [
+                "Matu&ecirc;",
+                "WIU",
+                "Teto"
+            ],
+            "trend": "up",
+            "streams": 898653
+        },
+        {
+            "position": 166,
+            "track_title": "Gangsta&#039;s Paradise",
+            "track_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+            "track_id": "1DIXPcTDzTj8ZMHt3PDt8p",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c31d3c870a3dbaf7b53186cc",
+            "artists": [
+                "Coolio",
+                "L.V."
+            ],
+            "trend": "up",
+            "streams": 897124
+        },
+        {
+            "position": 167,
+            "track_title": "Balan&ccedil;o da Rede",
+            "track_url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt",
+            "track_id": "2qmG7dokbGpDGD0T5wORWt",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851aa9c7cb06195bda7a55d9fd0",
+            "artists": [
+                "Matheus Fernandes",
+                "Xand Avi&atilde;o"
+            ],
+            "trend": "new",
+            "streams": 893144
+        },
+        {
+            "position": 168,
+            "track_title": "Mr. Brightside",
+            "track_url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+            "track_id": "003vvx7Niy0yvhvHt4a68B",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
+            "artists": [
+                "The Killers"
+            ],
+            "trend": "up",
+            "streams": 890324
+        },
+        {
+            "position": 169,
+            "track_title": "San Lucas",
+            "track_url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO",
+            "track_id": "75UMtPC77vqKRwfSuYuNPO",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048513e4b5368bf7ad20f19cc4812",
+            "artists": [
+                "Kevin Kaarl"
+            ],
+            "trend": "up",
+            "streams": 889808
+        },
+        {
+            "position": 170,
+            "track_title": "Dark Red",
+            "track_url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk",
+            "track_id": "37y7iDayfwm3WXn5BiAoRk",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851263886a4992c39704c601409",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "trend": "down",
+            "streams": 886505
+        },
+        {
+            "position": 171,
+            "track_title": "Dance Monkey",
+            "track_url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30",
+            "track_id": "2N8m6CYs74qQO4mjVcXO30",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e8197111f9d57793a5e7eff",
+            "artists": [
+                "Tones And I"
+            ],
+            "trend": "new",
+            "streams": 886049
+        },
+        {
+            "position": 172,
+            "track_title": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+            "track_url": "https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa",
+            "track_id": "2Gq636OOGgxCTqEuzCZhsa",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485113d49c631a6cd7829e75f575",
+            "artists": [
+                "Bizarrap",
+                "Tiago PZK"
+            ],
+            "trend": "sideway",
+            "streams": 879389
+        },
+        {
+            "position": 173,
+            "track_title": "Chale",
+            "track_url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6",
+            "track_id": "74WROFXsox6wkeUrEK2DS6",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851537de4a19f2352747a36172e",
+            "artists": [
+                "Eden Mu&ntilde;oz"
+            ],
+            "trend": "up",
+            "streams": 879008
+        },
+        {
+            "position": 174,
+            "track_title": "Perfect",
+            "track_url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+            "track_id": "0tgVpDi06FyKpA1z0VMD4v",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "trend": "up",
+            "streams": 878356
+        },
+        {
+            "position": 175,
+            "track_title": "You Right",
+            "track_url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez",
+            "track_id": "0k4d5YPDr1r7FX77VdqWez",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
+            "artists": [
+                "Doja Cat",
+                "The Weeknd"
+            ],
+            "trend": "down",
+            "streams": 877396
+        },
+        {
+            "position": 176,
+            "track_title": "Riptide",
+            "track_url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm",
+            "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851d3ce97395ff522b0d70c1094",
+            "artists": [
+                "Vance Joy"
+            ],
+            "trend": "up",
+            "streams": 875692
+        },
+        {
+            "position": 177,
+            "track_title": "Oh My God",
+            "track_url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX",
+            "track_id": "3Kkjo3cT83cw09VJyrLNwX",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c6b577e4c4a6d326354a89f7",
+            "artists": [
+                "Adele"
+            ],
+            "trend": "down",
+            "streams": 873314
+        },
+        {
+            "position": 178,
+            "track_title": "The Nights",
+            "track_url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc",
+            "track_id": "0ct6r3EGTcMLPtrXHDvVjc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048510ae4f4d42e4a09f3a29f64ad",
+            "artists": [
+                "Avicii"
+            ],
+            "trend": "up",
+            "streams": 873047
+        },
+        {
+            "position": 179,
+            "track_title": "Leave The Door Open",
+            "track_url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T",
+            "track_id": "02VBYrHfVwfEWXk5DXyf0T",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851fcf75ead8a32ac0020d2ce86",
+            "artists": [
+                "Bruno Mars",
+                "Anderson .Paak",
+                "Silk Sonic"
+            ],
+            "trend": "up",
+            "streams": 869128
+        },
+        {
+            "position": 180,
+            "track_title": "Hold My Hand",
+            "track_url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw",
+            "track_id": "0oWraSo5ASJ0h1BEagTyEw",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851b7e7edfee5626b7b1f15192a",
+            "artists": [
+                "Lady Gaga"
+            ],
+            "trend": "down",
+            "streams": 863073
+        },
+        {
+            "position": 181,
+            "track_title": "Still D.R.E.",
+            "track_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+            "track_id": "503OTo2dSqe7qk76rgsbep",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "artists": [
+                "Dr. Dre",
+                "Snoop Dogg"
+            ],
+            "trend": "down",
+            "streams": 860172
+        },
+        {
+            "position": 182,
+            "track_title": "Lost",
+            "track_url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723",
+            "track_id": "3GZD6HmiNUhxXYf8Gch723",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048517aede4855f6d0d738012e2e5",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "trend": "down",
+            "streams": 859996
+        },
+        {
+            "position": 183,
+            "track_title": "One Dance",
+            "track_url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
+            "track_id": "1zi7xx7UVEFkmKfv06H8x0",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+            "artists": [
+                "Drake",
+                "WizKid",
+                "Kyla"
+            ],
+            "trend": "up",
+            "streams": 858228
+        },
+        {
+            "position": 184,
+            "track_title": "Something In The Way - Remastered",
+            "track_url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz",
+            "track_id": "2WL6GQzPuK9Nrpy9XwNEbz",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851444f118a9126af9e1483dcc0",
+            "artists": [
+                "Nirvana"
+            ],
+            "trend": "down",
+            "streams": 857704
+        },
+        {
+            "position": 185,
+            "track_title": "I Got A Shot",
+            "track_url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY",
+            "track_id": "5hNsSrWcClSp0tg4Jdd4UY",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 854873
+        },
+        {
+            "position": 186,
+            "track_title": "Talk Of The Town",
+            "track_url": "https://open.spotify.com/track/7qFtkIa3KfhJAlWLVE1GCI",
+            "track_id": "7qFtkIa3KfhJAlWLVE1GCI",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851fd1a49a5b8b9eca67f3911d8",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 849764
+        },
+        {
+            "position": 187,
+            "track_title": "Wake Me Up",
+            "track_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+            "track_id": "0nrRP2bk19rLc0orkWPQk2",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7",
+            "artists": [
+                "Avicii"
+            ],
+            "trend": "up",
+            "streams": 847495
+        },
+        {
+            "position": 188,
+            "track_title": "Don&#039;t Be Shy",
+            "track_url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB",
+            "track_id": "0bI7K9Becu2dtXK1Q3cZNB",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c9bdd95ff143d01664054fc9",
+            "artists": [
+                "Ti&euml;sto",
+                "KAROL G"
+            ],
+            "trend": "up",
+            "streams": 841574
+        },
+        {
+            "position": 189,
+            "track_title": "Iris",
+            "track_url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+            "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
+            "artists": [
+                "The Goo Goo Dolls"
+            ],
+            "trend": "up",
+            "streams": 838693
+        },
+        {
+            "position": 190,
+            "track_title": "happier",
+            "track_url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl",
+            "track_id": "2tGvwE8GcFKwNdAXMnlbfl",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "trend": "down",
+            "streams": 837975
+        },
+        {
+            "position": 191,
+            "track_title": "Volando - Remix",
+            "track_url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe",
+            "track_id": "0G2zPzWqVjR68iNPmx2TBe",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851c06f8626913962e921586190",
+            "artists": [
+                "Mora",
+                "Bad Bunny",
+                "Sech"
+            ],
+            "trend": "down",
+            "streams": 837397
+        },
+        {
+            "position": 192,
+            "track_title": "Starlight",
+            "track_url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc",
+            "track_id": "531KGXtBroSrOX9LVmiIgc",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000485120ce6b27651688ee8969cb2e",
+            "artists": [
+                "Dave"
+            ],
+            "trend": "down",
+            "streams": 832710
+        },
+        {
+            "position": 193,
+            "track_title": "Crazy What Love Can Do",
+            "track_url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq",
+            "track_id": "1WCEAGGRD066z2Q89ObXTq",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851654c0a1cb2c30dd8e11c0186",
+            "artists": [
+                "David Guetta",
+                "Becky Hill",
+                "Ella Henderson"
+            ],
+            "trend": "new",
+            "streams": 830819
+        },
+        {
+            "position": 194,
+            "track_title": "Tom&#039;s Diner",
+            "track_url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP",
+            "track_id": "0oA9wBGDY4uyILLg4GymWP",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512186eb1b0b5436f858c0508c",
+            "artists": [
+                "AnnenMayKantereit",
+                "Giant Rooks"
+            ],
+            "trend": "new",
+            "streams": 829116
+        },
+        {
+            "position": 195,
+            "track_title": "jealousy, jealousy",
+            "track_url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk",
+            "track_id": "0MMyJUC3WNnFS1lit5pTjk",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "trend": "new",
+            "streams": 825554
+        },
+        {
+            "position": 196,
+            "track_title": "There&#039;s Nothing Holdin&#039; Me Back",
+            "track_url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml",
+            "track_id": "7JJmb5XwzOO8jgpou264Ml",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851ea3ef7697cfd5705b8f47521",
+            "artists": [
+                "Shawn Mendes"
+            ],
+            "trend": "down",
+            "streams": 825292
+        },
+        {
+            "position": 197,
+            "track_title": "Cay&oacute; La Noche (feat. Cruz Cafun&eacute;, Abhir Hathi, Bejo, EL IMA) [Remix]",
+            "track_url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn",
+            "track_id": "0Bv7O6fmZk3GrNQFYJaXPn",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048519b5d03db1266c2f8922a63a2",
+            "artists": [
+                "La Pantera",
+                "Quevedo",
+                "Juseph"
+            ],
+            "trend": "up",
+            "streams": 824912
+        },
+        {
+            "position": 198,
+            "track_title": "Can&#039;t Hold Us (feat. Ray Dalton)",
+            "track_url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt",
+            "track_id": "22skzmqfdWrjJylampe0kt",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048512a6b364528b128a4a17d100d",
+            "artists": [
+                "Macklemore &amp; Ryan Lewis",
+                "Macklemore",
+                "Ryan Lewis"
+            ],
+            "trend": "new",
+            "streams": 823741
+        },
+        {
+            "position": 199,
+            "track_title": "Revenge",
+            "track_url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW",
+            "track_id": "5TXDeTFVRVY7Cvt0Dw4vWW",
+            "thumbnail": "https://i.scdn.co/image/ab67616d00004851203c89bd4391468eea4cc3f5",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "trend": "down",
+            "streams": 823111
+        },
+        {
+            "position": 200,
+            "track_title": "Like A Blade Of Grass",
+            "track_url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9",
+            "track_id": "22xea6Z2a8BbyVeCksSBX9",
+            "thumbnail": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "trend": "down",
+            "streams": 819819
+        }
+    ]
+}
